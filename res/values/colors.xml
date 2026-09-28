@@ -1,0 +1,12 @@
+<resources>
+    <color name="rich_black">#0A0A0A</color>   <!-- Main Backgrounds/Headers -->
+    <color name="surface_black">#1A1A1A</color> <!-- Card Headers/Secondary -->
+    <color name="white">#FFFFFF</color>
+    <color name="sky_blue">#87CEEB</color>     <!-- Primary Accent -->
+    
+    <!-- Accent Highlights -->
+    <color name="accent_red">#FF5252</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="accent_orange">#FF8C00</color>
+</resources>
